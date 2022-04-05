@@ -1,0 +1,20 @@
+language tooth slot scene grow vendor equip shoulder book suit mail amateur
+
+
+
+previous keypair path
+
+previous keypair 4EWQ7s4qJQXxPTpkmxG1GaVi51JHSKTHaBeYDp9Mrq
+
+
+/Users/apple/my-solana-wallet/my-keypair.json 
+
+
+public address
+
+BX2f9gsc2P53AawBKbJMpYNevSD3aM1V7fN8F8JgB6rF
+
+
+
+mainnet beta rpc: 
+solana config set --url https://api.mainnet-beta.solana.com
